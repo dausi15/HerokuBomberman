@@ -1,0 +1,24 @@
+{
+  "name": "bombermanroyale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "websocket_server.js",
+  "scripts": {
+    "start": "node websocket_server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dausi15/BombermanRoyale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dausi15/BombermanRoyale/issues"
+  },
+  "homepage": "https://github.com/dausi15/BombermanRoyale#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
